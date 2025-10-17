@@ -45,24 +45,26 @@ npm install
 PORT=4000
 ```
 4. Run migrations (Prisma + SQLite):
-```bash npx prisma migrate dev --name init
+```bash
+npx prisma migrate dev --name init
 ```
 5. Start the backend:
-```bash npm run dev
+```bash
+npm run dev
 ```
 ### **Frontend**
 
 1. Navigate to the backend folder:
 ```bash
 cd frontend
-
 ```
 2. Install dependencies:
 ```bash
 npm install
 ```
 3. Start the frontend:
-```bash npm run dev
+```bash
+npm run dev
 ```
 
 **The frontend will run on http://localhost:5173.**
