@@ -1,4 +1,4 @@
-# FinTrack
+
 # FinTrack
 
 FinTrack is a **lightweight personal finance tracker** built with **React, TailwindCSS, Vite, Node.js, Express, Prisma, and SQLite**. It helps users manage income, expenses, and balances, visualize their spending with charts, and even get **AI-powered financial advice**.
