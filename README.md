@@ -41,7 +41,8 @@ cd backend
 npm install
 ```
 3. Create a .env file in backend/:
-```bash OPENAI_API_KEY=your_openai_api_key_here
+```bash
+OPENAI_API_KEY=your_openai_api_key_here
 PORT=4000
 ```
 4. Run migrations (Prisma + SQLite):
