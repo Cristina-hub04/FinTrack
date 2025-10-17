@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.category-icon {
+  display: inline-block;
+  width: 24px;
+  text-align: center;
+  margin-right: 4px;
+}
